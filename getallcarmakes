@@ -1,3 +1,9 @@
-curl -X GET http://localhost:8000/djangoapp/get_cars
-
-[{"CarMake": "Toyota", "CarModel": "Camry"}, {"CarMake": "Honda", "CarModel": "Civic"}]
+curl -X GET https://miniature-adventure-p7rvq7j9wxqqc7vpg.github.dev/djangoapp/get_cars
+{
+  "Car Makes": [
+    {"make": "Audi", "model": "A4"},
+    {"make": "BMW", "model": "X5"},
+    {"make": "Toyota", "model": "Camry"},
+    {"make": "Honda", "model": "Civic"}
+  ]
+}
