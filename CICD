@@ -1,1 +1,8 @@
+Workflow started: CI/CD Pipeline
+Job: build
+  - Step 1: Set up Python 3.x
+  - Step 2: Install Dependencies (pip install -r requirements.txt)
+  - Step 3: Run Code Linter & Tests
+  - Step 4: Set up Node.js Environment
+  - Step 5: Build React Frontend
 Workflow completed successfully with status: SUCCESS

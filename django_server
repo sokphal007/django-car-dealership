@@ -1,2 +1,8 @@
+python3 manage.py runserver
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 15, 2026 - 09:28:35
+Django version 4.2, using settings 'djangoproj.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
