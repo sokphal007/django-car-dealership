@@ -1,3 +1,2 @@
-curl -X GET http://localhost:8000/djangoapp/get_dealers
-
-[{"id": 1, "city": "Austin", "state": "Texas", "st": "TX", "address": "123 Main St", "zip": "78701", "lat": 30.2672, "long": -97.7431, "short_name": "Dealer 1", "full_name": "Dealer Full 1"}]
+curl -X GET https://miniature-adventure-p7rvq7j9wxqqc7vpg.github.dev/djangoapp/get_dealers
+[{"id": 1, "city": "Austin", "state": "Texas", "st": "TX", "address": "123 Main St", "zip": "78701", "lat": 30.2672, "long": -97.7431, "short_name": "Dealer 1", "full_name": "Dealer Full 1"}, {"id": 2, "city": "Wichita", "state": "Kansas", "st": "KS", "address": "456 State St", "zip": "67202", "lat": 37.6872, "long": -97.3301, "short_name": "Dealer Kansas", "full_name": "Dealer Kansas Full"}]
